@@ -1,6 +1,10 @@
 site_name: Data Engineering University
-theme: 
+repo_url: https://github.com/pavs23/data-engineering-university
+repo_name: data-engineering-university
+theme:
   name: material
+  palette:
+    primary: green
   features:
     - navigation.indexes
     - navigation.tabs
